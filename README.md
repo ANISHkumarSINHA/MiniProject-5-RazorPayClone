@@ -1,2 +1,1 @@
-# MiniProject-6-RazorPayClone
-RazorPay Clone
+LIVELINK=>https://razorplayclonebyanish.netlify.app/
